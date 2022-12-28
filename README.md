@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berkayeraydin
 
-## Linkedin
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+#### Linkedin
+![](hhttps://www.linkedin.com/in/berkayeraydin/?style=for-the-badge&logo=linkedin&logoColor=white)
 * [Berkay ERAYDIN](https://www.linkedin.com/in/berkayeraydin/)
 
 #### 💻 Code Language
