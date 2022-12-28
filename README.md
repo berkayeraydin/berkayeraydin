@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @berkayeraydin. Software Development Specialist at @Etiya
 
-#### Linkedin
-![Berkay ERAYDIN](https://www.linkedin.com/in/berkayeraydin/) (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+#### 💻 Linkedin
 * [Berkay ERAYDIN](https://www.linkedin.com/in/berkayeraydin/) 
 
 #### 💻 Code Language
